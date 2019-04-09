@@ -1,0 +1,25 @@
+C:\Project\GPI\Code\Source\DataCenterApplications\Reliability\RIEmail\RIEmail\bin\Debug\RIEmail.exe.config
+F:\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIEmail.exe.config
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIEmail.exe.config
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIEmail.exe.manifest
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIEmail.application
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIEmail.xml
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\Devart.Data.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\IP.MEASFramework.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\RIResourceProvider.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\Debug\IP.MEASFramework.xml
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.vbprojResolveAssemblyReference.cache
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.Resources.resources
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.vbproj.GenerateResource.Cache
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.TrustInfo.xml
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.exe.manifest
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.application
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.xml
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.Resources.resources
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.vbproj.GenerateResource.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\Debug\RIEmail.vbproj.CoreCompileInputs.cache

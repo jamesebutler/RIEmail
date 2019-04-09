@@ -1,0 +1,57 @@
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe.config
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe.manifest
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.application
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\Devart.Data.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\Devart.Data.Oracle.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\IP.Bids.Localization.Interface.DLL
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\IP.MEASFramework.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\RIResourceProvider.dll
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\bin\x64\Debug\IP.MEASFramework.xml
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbprojResolveAssemblyReference.cache
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.Resources.resources
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbproj.GenerateResource.Cache
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.TrustInfo.xml
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.exe.manifest
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.application
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2015\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.pdb
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe.config
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.exe
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.pdb
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe.manifest
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\RIEmail.application
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\RIEmail.pdb
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\IP.Bids.Localization.Interface.DLL
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\IP.MEASFramework.dll
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\RIResourceProvider.dll
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\bin\x64\Debug\IP.MEASFramework.xml
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbprojResolveAssemblyReference.cache
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.Resources.resources
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbproj.GenerateResource.Cache
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.TrustInfo.xml
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.exe.manifest
+C:\Project\GPI\Code\Source\RIEmail\RIEmail\obj\x64\Debug\RIEmail.application
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe.config
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe.manifest
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.application
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\RIEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\Devart.Data.dll
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\Devart.Data.Oracle.dll
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\IP.Bids.Localization.Interface.DLL
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\IP.MEASFramework.dll
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\RIResourceProvider.dll
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\bin\x64\Debug\IP.MEASFramework.xml
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbprojAssemblyReference.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.Resources.resources
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbproj.GenerateResource.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbproj.CoreCompileInputs.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.TrustInfo.xml
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.exe.manifest
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.application
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.vbproj.CopyComplete
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\RIEmail\RIEmail\obj\x64\Debug\RIEmail.pdb
